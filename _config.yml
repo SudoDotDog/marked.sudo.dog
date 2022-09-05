@@ -1,10 +1,10 @@
-title: sudo.dog
+title: Marked
 email: wm@mengw.io
-description: Sudoo Packages Index
-url: https://sudo.dog
+description: Marked
+url: https://marked.sudo.dog
 github_username: WMXPY
 theme: minima
-repository: WMXPY/sudo.dog
+repository: SudoDotDog/marked.sudo.dog
 markdown: kramdown
 kramdown:
   input: GFM

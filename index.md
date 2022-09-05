@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Marked
 
 [![Continuous Integration](https://github.com/SudoDotDog/Marked/actions/workflows/ci.yml/badge.svg)](https://github.com/SudoDotDog/Marked/actions/workflows/ci.yml)
