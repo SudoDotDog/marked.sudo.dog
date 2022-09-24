@@ -11,5 +11,6 @@ layout: home
 
 JavaScript code runner in JavaScript, safe with marked territory, asynchronous
 
-- [Install](/document/install)
 - [Quick Start](/document/quick-start)
+- [Install](/document/install)
+- [Package Status](/status)
